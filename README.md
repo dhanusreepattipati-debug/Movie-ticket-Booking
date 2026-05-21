@@ -1,5 +1,5 @@
 # Movie-ticket-Booking
-Movie Ticket Booking System 🎬🎟️
+Movie Ticket Booking System 🎬
 
 A simple Python console-based Movie Ticket Booking System that allows users to:
 
